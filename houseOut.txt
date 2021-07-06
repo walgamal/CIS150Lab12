@@ -1,0 +1,86 @@
+Street Address: None
+Square Footage: 0
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+Street Address: House2
+Square Footage: 80000
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+Street Address: House3
+Square Footage: 100000
+Number of Bedrooms: 4
+Number of Bathrooms: 3.5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+House 1
+Street Address: None
+Square Footage: 7
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 2
+Street Address: None
+Square Footage: 28
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 3
+Street Address: None
+Square Footage: 21
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 4
+Street Address: None
+Square Footage: 30
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 5
+Street Address: None
+Square Footage: 35
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 6
+Street Address: None
+Square Footage: 32
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 7
+Street Address: None
+Square Footage: 49
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 8
+Street Address: None
+Square Footage: 34
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 9
+Street Address: None
+Square Footage: 63
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+House 10
+Street Address: None
+Square Footage: 36
+Number of Bedrooms: 0
+Number of Bathrooms: 0
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Houses Greater than 31 Sqft:
+House: 5
+House: 6
+House: 7
+House: 8
+House: 9
+House: 10
